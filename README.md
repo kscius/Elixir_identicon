@@ -3,6 +3,8 @@ Elixir Project to learn the language
 
 `Identicon.main("kscius")`
 
+![alt text](https://raw.githubusercontent.com/kscius/Elixir_identicon/main/kscius.png)
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
